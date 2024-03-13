@@ -1,7 +1,7 @@
 Website: https://pancakeswap-prediction-bot.vercel.app | Win easily with the smart prediction robot of the Pancake Swap game using artificial intelligence! 🤩✅💵
 Bot for PancakeSwap Prediction – 26 technical indicators. Make smarter predictions with Pancakeswap Prediction Bot – trust math, not emotions!
 Website: https://pancakeswap-prediction-bot.vercel.app
-- Features -
+-  Features  -
 26 technical indicators
 Math-based analysis, not emotional decision-making
 Auto-bet
